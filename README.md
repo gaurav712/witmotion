@@ -1,3 +1,5 @@
+> **Note:** This project is moved to Codeberg: https://codeberg.org/gaurav712/witmotion
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
